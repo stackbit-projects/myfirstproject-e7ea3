@@ -54,6 +54,7 @@ params:
         style: icon
         icon: linkedin
         new_window: true
+  domain: 'https://myfirstproject-e7ea3.netlify.app'
 taxonomies:
   stub: stub
 disableKinds:
